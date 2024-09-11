@@ -44,5 +44,8 @@ main(){
    => The C program declares two integer variables, performs arithmetic operations 
 	(sum, difference, product, quotient), compares the variables using relational operators, 
 	and checks if both are positive using logical operators.
-   => It displays the results of all operations.
+	
+	
+   => It displays the results of 
+      all operations.
 */
