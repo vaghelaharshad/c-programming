@@ -8,7 +8,7 @@ main(){
 	  printf("Entre a value for the frist number :");
 	  scanf("%d",&num1);
 	  
-	  printf("Entre a value for the frist number :");
+	  printf("Entre a value for the second number :");
 	  scanf("%d",&num2);
 	  
 	  if(num1 < num2) {
